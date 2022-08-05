@@ -1,10 +1,6 @@
-* {
-  font-family: "Roboto";
-}
 body {
   background-color: #020e26;
 }
-
 .input-checkbox {
   display: none;
 }
@@ -38,7 +34,7 @@ body {
   top: -20px;
 }
 .nav-button span::after {
-  top: -23px;
+  top: -20px;
 }
 .input-checkbox:checked + .nav-button span {
   background-color: transparent;
